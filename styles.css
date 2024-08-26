@@ -7,6 +7,16 @@ body {
     height: 100vh;
     margin: 0;
 }
+body {
+    font-family: 'Arial', sans-serif;
+    background: url('https://www.shutterstock.com/image-illustration/clouds-blue-layer-background-hand-drawn-2455356523') no-repeat center center fixed;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
 
 .container {
     width: 80%;
